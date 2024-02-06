@@ -4,9 +4,13 @@ Saya Revana Faliha Salma NIM 2202869 mengerjakan Soal Latihan 1 dalam mata kulia
 Program ini merupakan program yang disusun untuk membuat data anggota DPR. Fitur yang dapat dipakai dalam program tabel ini, yaitu menambah data, mengedit data, menghapus data, dan menampilkan data. Alur dalam program ini, yaitu saat program dijalankan maka akan terjadi sebuah looping yang meminta pengguna untuk memberi masukan dengan pilihan:
 
 '0' = keluar/exit (program akan berhenti meminta masukan)
+
 '1' = menambah
+
 '2' = mengedit
+
 '3' = menghapus
+
 '4' = menampilkan tabel
 
 ### Action 0 Exit | Keluar
